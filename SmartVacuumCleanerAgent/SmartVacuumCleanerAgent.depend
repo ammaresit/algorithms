@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1570438183 source:d:\workshop\codeblocks\yapayzekâ\ka1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

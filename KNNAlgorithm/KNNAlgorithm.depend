@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1548145754 source:d:\workshop\codeblocks\knn-datamining\main.cpp
+	<iostream>
+	<math.h>
+	<algorithm>
+	<fstream>
+	<string>
+	<stdlib.h>
+
